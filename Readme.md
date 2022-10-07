@@ -4,3 +4,5 @@ Meu primeiro repositório feito pelo prompt do git.
 
 
 	Gostou?, siga-me no facebook Victor Lima
+
+	Qualquer doação é bem vinda, chave pix: blablabla
